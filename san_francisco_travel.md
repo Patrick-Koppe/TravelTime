@@ -51,7 +51,7 @@ Clubs / Events:
 ##  120 Meilen => 194km
 ### Info: Hanau -> München 383km
 
-# Sain Diego
+# San Diego
 ## Dauer Aufenthalt: 5Tage
 ## Kosten Gesamt: xxx unbekannt xxx
 ### Detailauflistung
@@ -81,12 +81,42 @@ Strände / Beaches
 - (**) 3Std Jeep Safari Tour -> https://www.tripadvisor.de/AttractionProductReview-g31393-d20320590-3_Hour_Off_Road_Sunset_Safari_to_Grand_Canyon_with_Entrance_Gate_Detour-Tusayan_Ari.html Dauer: 3Std Preis: 120€
 - (**) Grand Canyon Railway-Abenteuerpaket -> https://www.tripadvisor.de/AttractionProductReview-g31407-d11995031-Grand_Canyon_Railway_Adventure_Package-Williams_Arizona.html Dauer: 8Std Preis: 173€
 
+- (***) Kajak Tour Las Vegas
+
 # Traveltime 
 ## Dauer: 4h 15min
 ##  280 Meilen => 450km
 ### Info: Hanau -> München 383km
 
 # Las Vegas
-## Dauer Aufenthalt: 
+## Dauer Aufenthalt: 3-4Tage
 ## Kosten Gesamt: xxx unbekannt xxx
 ### Detailauflistung
+
+- (***) QuadTour https://www.tripadvisor.de/AttractionProductReview-g45963-d13305114-Half_Day_Mojave_Desert_ATV_Tour_from_Las_Vegas-Las_Vegas_Nevada.html Dauer: 4Std Preis: 110€
+- (**) V-Show https://www.tripadvisor.de/AttractionProductReview-g45963-d11448396-V_The_Ultimate_Variety_Show_at_Planet_Hollywood_Resort_and_Casino-Las_Vegas_Nevada.html Dauer: 1h 15min Preis: 50€
+- (***) Eiffelturm https://www.tripadvisor.de/AttractionProductReview-g45963-d12152753-Eiffel_Tower_Viewing_Deck_at_Paris_Las_Vegas-Las_Vegas_Nevada.html Dauer: 1h Preis: 30€
+
+- (**) Soleil https://www.tripadvisor.de/AttractionProductReview-g45963-d12165098-O_by_Cirque_du_SoleilR_at_the_Bellagio_Hotel_and_Casino-Las_Vegas_Nevada.htmll Dauer: 1h 30min Preis: 110€
+
+- (***) Kajak Tour https://www.tripadvisor.de/AttractionProductReview-g45963-d11995239-Twilight_Kayak_Tour_from_Las_Vegas-Las_Vegas_Nevada.html Dauer: 4Std Preis: 170€
+
+- (***) Stratosphere Aussichtsplattform https://www.tripadvisor.de/AttractionProductReview-g45963-d12726126-The_STRAT_Tower_Observation_Deck_Ticket-Las_Vegas_Nevada.html Dauer: 4Std Preis: 25€
+
+# Traveltime 
+## Dauer: 7h 50min
+##  428 Meilen => 689 km
+### Info: Hanau -> München 383km
+# Yosemite Vuillage
+## Dauer Aufenthalt: 3Tage
+## Kosten Gesamt: xxx unbekannt xxx
+### Detailauflistung
+
+- Touren noch geplant werden
+
+# Traveltime 
+## Dauer: 3h 45min
+##  200 Meilen => 125 km
+### Info: Hanau -> München 383km
+
+# San Francisco
