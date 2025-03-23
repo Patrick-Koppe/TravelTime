@@ -57,3 +57,18 @@
 ## Bars
 * All Night Skate
 
+
+
+## New York -> Niagara
+1. Tag
+* New York -> Ithaca (4h Fahrt + 2h) Aufenthalt
+2. Tag
+* Ithaca -> Watkin Glen State Park
+Georg Trail
+3. Tag
+Letchwoth Park
+Fahrrad / Wandern
+4. Tag Niagara
+Naiagara -> Utica (4h)
+5. Tag 
+Utica -> NY (4h)
