@@ -66,9 +66,11 @@
 * Ithaca -> Watkin Glen State Park
 Georg Trail
 3. Tag
-Letchwoth Park
+* Letchwoth Park
 Fahrrad / Wandern
 4. Tag Niagara
-Naiagara -> Utica (4h)
+* Naiagara Fälle Buffalo (Unterkunft)
 5. Tag 
-Utica -> NY (4h)
+* Buffalo -> Albony (4h) 
+6. Tag
+* Albony -> New York (2h 30m)
